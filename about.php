@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -44,11 +43,11 @@
         </ul>
     </div>  
 </nav>
-  
+
 <div class="jumbotron text-center" style="margin-bottom:0">
     <br/>
     <br/>
-    <h1>Welcome</h1>
+    <h1>About Us</h1>
 </div>
 
 <div class="container" style="padding:100px 0 100px 0;">
